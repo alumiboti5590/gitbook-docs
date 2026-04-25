@@ -29,9 +29,7 @@
 
 ## Workshop Guides <a href="#workshop" id="workshop"></a>
 
-***
-
-* [Tool Guides](tools/README.md)
-  * [CNC Router Machine](tools/cnc.md)
-  * [Lathe](tools/lathe.md)
-  * [Jet Mill/Drill Machine](tools/jet-mill-drill-machine.md)
+* [Tool Guides](workshop/tools/README.md)
+  * [CNC Router Machine](workshop/tools/cnc.md)
+  * [Lathe](workshop/tools/lathe.md)
+  * [Jet Mill/Drill Machine](workshop/tools/jet-mill-drill-machine.md)
