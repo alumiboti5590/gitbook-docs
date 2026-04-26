@@ -1,7 +1,3 @@
----
-icon: hand-wave
----
-
 # Welcome
 
 Welcome to the FRC Team 5590 documentation site. We are the Alumiboti, a [_FIRST_ Robotics Competition](https://www.firstinspires.org/programs/frc/) team that started in 2015 and is based out of St. Joseph's Collegiate Institute in Buffalo, New York.

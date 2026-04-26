@@ -3,7 +3,6 @@ description: >-
   There is more to an FRC competition than just being the winning alliance.
   Awards enable different ways to still win a "Blue Banner" and a potential trip
   to Worlds.
-icon: award
 ---
 
 # FRC Awards

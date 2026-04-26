@@ -19,13 +19,21 @@
 
 ## Electrical Guides <a href="#electrical" id="electrical"></a>
 
-* [Publish your docs](electrical/publish-your-docs.md)
+* [Intro to FRC Robot Wiring (WPILib)](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/intro-to-frc-robot-wiring.html)
+* [CAN Wiring & Devices (WPILib)](https://docs.wpilib.org/en/stable/docs/software/can-devices/index.html)
 
 ## Programming / Software Guides <a href="#software" id="software"></a>
 
 * [GitHub](software/github/README.md)
   * [Alumiboti Organization Access](software/github/alumiboti-organization-access.md)
   * [Robot Code Repositories](software/github/robot-code-repositories.md)
+  * [MaxSwerve Robot Template](https://github.com/REVrobotics/MAXSwerve-Java-Template)
+* [Command-Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html)
+* [Field & Robot Coordinate Systems](https://docs.wpilib.org/en/latest/docs/software/basic-programming/coordinate-system.html)
+* [Drive Software](software/drive-software/README.md)
+  * [AdvantageScope](https://docs.advantagescope.org/)
+  * [Elastic Dashboard & Notifications](https://frc-elastic.gitbook.io/docs)
+  * [PathPlanner Autonomous](https://pathplanner.dev/home.html)
 
 ## Workshop Guides <a href="#workshop" id="workshop"></a>
 

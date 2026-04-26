@@ -1,6 +1,5 @@
 ---
 description: How we utilize Git and GitHub to store our code, and how to gain access.
-icon: screen-users
 ---
 
 # Alumiboti Organization Access
@@ -45,7 +44,7 @@ This is for someone who is already an administrator of the `alumiboti5590` GitHu
 
 Before adding new members to the GitHub organization, they must already have a valid GitHub account, which they can sign up for at at [https://github.com/signup](https://github.com/signup). **They can have one GitHub account for all of your different usages, robotics-related or not**, so there's no need to make it (or the associated name) robotics-specific; first initial and last name are usually a good starting username.
 
-#### Inviting the GitHub User
+**Inviting the GitHub User**
 
 Visit [the _Pending Invitations_ page](https://github.com/orgs/alumiboti5590/people/pending_invitations) of the Alumiboti 5590 organization and select the "Invite Member" button in the top right - as of early 2026.
 
@@ -59,7 +58,7 @@ Once submitted, they should receive an email at the address associated with thei
 
 Make sure to add the user to the appropriate groups below, or else they will be unable to contribute to our repositories!
 
-#### Adding the User to Appropriate Groups
+**Adding the User to Appropriate Groups**
 
 We manage repository write access and permissions via [GitHub Teams](https://github.com/orgs/alumiboti5590/teams). At this time, we only have two groups; a [Mentors](https://github.com/orgs/alumiboti5590/teams/mentors) group and a [Students](https://github.com/orgs/alumiboti5590/teams/students) group. Based on the member being added, select the appropriate group to go into the details and select the "Add a member" button, and fill out the form with the associated member's username.
 

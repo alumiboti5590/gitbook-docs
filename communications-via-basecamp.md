@@ -2,7 +2,6 @@
 description: >-
   We utilize Basecamp for messaging, important news, project management, and
   more!
-icon: weixin
 ---
 
 # Communications via Basecamp

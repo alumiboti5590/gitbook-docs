@@ -1,6 +1,2 @@
----
-icon: print
----
-
 # Cricut Machine
 
