@@ -30,6 +30,7 @@
   * [MaxSwerve Robot Template](https://github.com/REVrobotics/MAXSwerve-Java-Template)
 * [Command-Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html)
 * [Field & Robot Coordinate Systems](https://docs.wpilib.org/en/latest/docs/software/basic-programming/coordinate-system.html)
+* [PhotonVision / April Tag Detection](https://docs.photonvision.org/en/latest/index.html)
 * [Drive Software](software/drive-software/README.md)
   * [AdvantageScope](https://docs.advantagescope.org/)
   * [Elastic Dashboard & Notifications](https://frc-elastic.gitbook.io/docs)
