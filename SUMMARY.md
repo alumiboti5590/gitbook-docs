@@ -24,7 +24,7 @@
 
 ## Programming / Software Guides <a href="#software" id="software"></a>
 
-* [GitHub](software/github/README.md)
+* [Version Control with Git & GitHub](software/github/README.md)
   * [Alumiboti Organization Access](software/github/alumiboti-organization-access.md)
   * [Robot Code Repositories](software/github/robot-code-repositories.md)
   * [MaxSwerve Robot Template](https://github.com/REVrobotics/MAXSwerve-Java-Template)
