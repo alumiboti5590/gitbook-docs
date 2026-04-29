@@ -15,7 +15,23 @@
 
 ## Mechanical Guides <a href="#mechanical" id="mechanical"></a>
 
-* [Page 1](mechanical/page-1.md)
+* [Fasteners and Hardware](mechanical/page-1.md)
+* [Structural Materials and Stock](mechanical/structural-materials-and-stock.md)
+* [Bearings and Shafts](mechanical/bearings-and-shafts.md)
+* [Power Transmission](mechanical/power-transmission/README.md)
+  * [Gears](mechanical/power-transmission/gears.md)
+  * [Chains and Sprockets](mechanical/power-transmission/chains-and-sprockets.md)
+  * [Belts and Pulleys](mechanical/power-transmission/belts-and-pulleys.md)
+* [Actuation](mechanical/actuation/README.md)
+  * [Motors](mechanical/actuation/motors.md)
+  * [Pneumatics](mechanical/actuation/pneumatics.md)
+  * [Linear Motion](mechanical/actuation/linear-motion.md)
+* [Tools and Equipment](mechanical/tools-and-equipment/README.md)
+  * [Drivers and Wrenches](mechanical/tools-and-equipment/drivers-and-wrenches.md)
+  * [Measurement](mechanical/tools-and-equipment/measurement.md)
+  * [Power Tools](mechanical/tools-and-equipment/power-tools.md)
+  * [Workholding](mechanical/tools-and-equipment/workholding.md)
+  * [Specialty Equipment](mechanical/tools-and-equipment/specialty-equipment.md)
 
 ## Electrical Guides <a href="#electrical" id="electrical"></a>
 
