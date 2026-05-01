@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Communications via Basecamp](communications-via-basecamp.md)
+* [WPILib Documentation](https://docs.wpilib.org/en/stable/)
 
 ## Business
 
@@ -12,6 +13,12 @@
 * [Cricut Machine](design-guides/cricut-machine.md)
 * [Onshape CAD](design-guides/onshape-cad/README.md)
   * [FRC Design](design-guides/onshape-cad/frc-design.md)
+
+## Robotics 101
+
+* [Available Involvement Areas](robotics-101/available-involvement-areas.md)
+* [The Day of Kickoff](robotics-101/the-day-of-kickoff.md)
+* [Robot Design Workflow](robotics-101/robot-design-workflow.md)
 
 ## Mechanical Guides <a href="#mechanical" id="mechanical"></a>
 
