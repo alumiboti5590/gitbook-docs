@@ -63,6 +63,6 @@
 ## Workshop Guides <a href="#workshop" id="workshop"></a>
 
 * [Tool Guides](workshop/tools/README.md)
-  * [CNC Router Machine](workshop/tools/cnc.md)
+  * [Using the Omio X8-2200L CNC Router Machine](workshop/tools/cnc.md)
   * [Lathe](workshop/tools/lathe.md)
   * [Jet Mill/Drill Machine](workshop/tools/jet-mill-drill-machine.md)
